@@ -1,4 +1,4 @@
-## Olist Data Visualization
+#Olist Data Visualization
 
 Created Data Visualization of Olist's Sales using Tableau.
 
